@@ -1,0 +1,18 @@
+{
+  "InstitutionName": "UCSD",
+  "InstitutionalDepartmentName": "Psychiatry",
+  "PowerLineFrequency": 60,
+  "ManufacturersModelName": "BioSemi",
+  "EEGGround": "BioSemi",
+  "EEGReference": "BioSemi",
+  "EEGChannelCount": 64,
+  "TaskName": "5CCPTxPSTxAmphetamine",
+  "MiscChannelCount": 71,
+  "RecordingType": "continuous",
+  "RecordingDuration": 2958.001674107143,
+  "SamplingFrequency": 500.0930232558139,
+  "EOGChannelCount": 0,
+  "ECGChannelCount": 0,
+  "EMGChannelCount": 0,
+  "SoftwareFilters": "n/a"
+}
